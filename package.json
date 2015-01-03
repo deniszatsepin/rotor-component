@@ -3,6 +3,10 @@
   "version": "0.0.1",
   "description": "Rotor component base class.",
   "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/deniszatsepin/rotor-component"
+  },
   "directories": {
     "test": "test"
   },
