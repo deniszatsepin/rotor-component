@@ -1,6 +1,6 @@
 {
   "name": "rotor-component",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Rotor component base class.",
   "main": "index.js",
   "repository": {
